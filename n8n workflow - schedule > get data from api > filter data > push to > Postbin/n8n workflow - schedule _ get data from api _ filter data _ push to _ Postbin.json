@@ -21,7 +21,8 @@
         -448,
         -16
       ],
-      "id": "26e2b2cb-ac6f-4012-bf78-30b0685c8736",
+      // TODO: Create(FREE) a NASA API node. source: https://api.nasa.gov/
+      "id": "Place it here when created",
       "name": "Schedule Trigger"
     },
     {
@@ -37,11 +38,11 @@
         -240,
         -16
       ],
-      "id": "559fff2b-cf10-4f24-b883-e36ea5971e19",
+      "id": "Place it here when created",
       "name": "Get a DONKI solar flare",
       "credentials": {
         "nasaApi": {
-          "id": "Gr3hsPQqmxQBHLkY",
+          "id": "Place it here when created",
           "name": "NASA account"
         }
       }
@@ -57,7 +58,7 @@
           },
           "conditions": [
             {
-              "id": "576546a1-af5b-459d-a0b8-bb16838a999d",
+              "id": "Please place it here when created",
               "leftValue": "={{ $json.classType }}",
               "rightValue": "X",
               "operator": {
@@ -93,7 +94,7 @@
         272,
         -32
       ],
-      "id": "a029ecd9-a0f3-418e-b292-a64ecf6255ad",
+      "id": "Place it here when created",
       "name": "Send a request"
     },
     {
@@ -110,7 +111,7 @@
         272,
         128
       ],
-      "id": "d02dec47-c81f-4008-a704-e3ae2b235250",
+      "id": "Please place it here when created",
       "name": "Send a request1"
     }
   ],
